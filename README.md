@@ -1,6 +1,6 @@
 # Advent of Code Solutions
 
-Hey there! 👋 Welcome to my Advent of Code 2023 repo.
+Hey there! 👋 Welcome to my Advent of Code 2023 repo! This year I decided to learn Rust for my solutions.
 
 ## What's Advent of Code?
 
